@@ -22,6 +22,7 @@
   
 _Use the non-Pandas version._ The only difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds).
 
+**In either case, just fill in the 3 required strings (and change the 3 options, if you wish), and click `Cell` in the notebook menu then select `Run All` and the relevant webpages will be created.**
 
 _______________
 
