@@ -28,7 +28,7 @@ _Note:_ For either version, python's `markdown` module has to be installed.
 
 ### An Example Reviews Page:
 
-    ![alt text][image_5]
+![alt text][image_5]
     
 _______________
 
