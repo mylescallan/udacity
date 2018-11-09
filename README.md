@@ -4,7 +4,7 @@
 [image_2]: images/pastebin.gif
 [image_3]: responsive.gif
 [image_4]: synchronousQuery.jpg
-
+[image_5]: images/reviews.gif
 
 ## Contents
 - [Creating HTML pages for Ratings, with Links to Reviews](#Review)
@@ -22,8 +22,14 @@
   
 _Use the non-Pandas version._ The only difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds).
 
+_Note:_ For either version, python's `markdown` module has to be installed.
+
 **In either case, just fill in the 3 required strings (and change the 3 options, if you wish), and click `Cell` in the notebook menu then select `Run All` and the relevant webpages will be created.**
 
+### An Example Reviews Page:
+
+    ![alt text][image_5]
+    
 _______________
 
 <a id='MENTOR'></a>
