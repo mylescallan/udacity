@@ -25,7 +25,7 @@ _Use the non-Pandas version._
 The main difference between the two notebooks is:
 
 1. The one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds) 
-2. If you want the `Combined` webpage, you **have to** create both the `Ratings` and `Reviews` webpages too (with the JSON version, you can pick and choose).
+2. In the _"PANDAS"_ version, if you want the `Combined` webpage, you **have to** create both the `Ratings` and `Reviews` webpages too (with the JSON version, you can pick and choose).
 3. The _"PANDAS"_ version doesn't include peer reviews.
 
 _Note:_ For either version, python's `markdown` module has to be installed.
