@@ -20,7 +20,7 @@
   * These pages are _grouped by_ projects (can be turned off), and
   * they all contain links to the relevant reviews
   
-_Use the non-Pandas version._ The main difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds) and, if you want the `Combined` webpage then you **have to** create both the `Feedback` and `Reviews` webpages too (with the JSON version, you can pick and choose).
+_Use the non-Pandas version._ The main difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds) and, if you want the `Combined` webpage then you **have to** create both the `Ratings` and `Reviews` webpages too (with the JSON version, you can pick and choose).
 
 _Note:_ For either version, python's `markdown` module has to be installed.
 
