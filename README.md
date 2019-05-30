@@ -15,10 +15,10 @@
 <a id='Review'></a>
 ## Creating HTML pages for Ratings, with Links to Reviews
 
-- The notebook in this repository the output:
+- The notebook in this repository creates:
   * HTML pages of: Ratings, Reviews, Your Submissions, Peer Reviews, and Ratings and Reviews Combined.
-  * These pages are _grouped by_ projects (can be turned off), and
-  * They all contain links to the relevant reviews
+    * These pages are _grouped by_ projects (can be turned off), and
+    * They all contain links to the relevant reviews
   
 _The Pandas version has been removed (pandas as been incorporated into the main notebook, with sample analysis at the end)._ 
 
