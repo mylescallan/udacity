@@ -15,22 +15,16 @@
 <a id='Review'></a>
 ## Creating HTML pages for Ratings, with Links to Reviews
 
-- The 2 notebooks in this repository have the same output:
+- The notebook in this repository the output:
   * HTML pages of: Ratings, Reviews, Your Submissions, Peer Reviews, and Ratings and Reviews Combined.
   * These pages are _grouped by_ projects (can be turned off), and
-  * they all contain links to the relevant reviews
+  * They all contain links to the relevant reviews
   
-_Use the non-Pandas version._ 
+_The Pandas version has been removed (pandas as been incorporated into the main notebook, with sample analysis at the end)._ 
 
-The main difference between the two notebooks is:
+_Note:_ python's `markdown` module has to be installed.
 
-1. The one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 600 reviews, the pandas notebook takes about 5 minutes, the other takes about 15 seconds) 
-2. In the _"PANDAS"_ version, if you want the `Combined` webpage, you **have to** create both the `Ratings` and `Reviews` webpages too (with the JSON version, you can pick and choose).
-3. The _"PANDAS"_ version doesn't include peer reviews.
-
-_Note:_ For either version, python's `markdown` module has to be installed.
-
-**In either case, just fill in the 3 required strings (and change the 3 options, if you wish), and click `Cell` in the notebook menu then select `Run All` and the relevant webpages will be created.**
+**Just fill in the 3 required strings (and change the 3 options, if you wish), and click `Cell` in the notebook menu then select `Run All` and the relevant webpages will be created.**
 
 ### An Example Reviews Page:
 
