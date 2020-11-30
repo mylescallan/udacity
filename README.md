@@ -15,6 +15,8 @@
 <a id='Review'></a>
 ## Creating HTML pages for Ratings, with Links to Reviews
 
+### Updated (11/30/2020) due to new rating system and new login webpage
+
 - The notebook in this repository creates:
   * HTML pages of: Ratings, Reviews, Your Submissions, Peer Reviews, and Ratings and Reviews Combined.
     * These pages are _grouped by_ projects (can be turned off), and
